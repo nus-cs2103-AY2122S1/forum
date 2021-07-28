@@ -1,5 +1,5 @@
 ---
-name: Requesting for Help
+name: Requesting for help
 about: Template for seekling help
 title: ''
 labels: 'type-HelpRequest :sos:'

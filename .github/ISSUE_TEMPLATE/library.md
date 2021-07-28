@@ -1,5 +1,5 @@
 ---
-name: Requesting Permission to use a Third-Party Library
+name: Requesting Permission to use a third-party Library
 about: Template for library approval
 title: ''
 labels: 'type-RequestToUseLibrary'
